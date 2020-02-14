@@ -53,6 +53,14 @@ contributions:
       url: "https://github.com/GypsyDangerous"
     url: "https://editor.p5js.org/D_Snyder/full/492uCszzp"
     source: "https://editor.p5js.org/D_Snyder/sketches/492uCszzp"
+    
+    title: "Tesseract with
+Colors corresponding to each axis"
+  author:
+    name: "Ito Ginji"
+    url: "https://note.com/ginjiandginji123"
+  url: "https://youtu.be/QcwBUmxnLqw"
+  source: "https://note.com/ginjiandginji123/n/nf4ef5d923d8d"
 ---
 
 In this coding challenge, I visualize a 4D Hypercube (aka "Tesseract") in Processing (Java).
